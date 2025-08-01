@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "897237546940",
+    "firebase_url": "https://supersonic-topchopgames-default-rtdb.firebaseio.com",
+    "project_id": "supersonic-topchopgames",
+    "storage_bucket": "supersonic-topchopgames.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897237546940:ios:7de83a485a7056d4fd9db9",
+        "android_client_info": {
+          "package_name": "com.tcg.fpsdungeonminer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897237546940-422dl33tqeqkvab5m504os82hb71oj5l.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh-a4UjIKA5rLwK1ZlLdEutP0f-LJYafs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
